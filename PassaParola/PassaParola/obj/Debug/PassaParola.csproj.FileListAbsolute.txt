@@ -1,0 +1,11 @@
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\bin\Debug\PassaParola.exe.config
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\bin\Debug\PassaParola.exe
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\bin\Debug\PassaParola.pdb
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.AssemblyReference.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.Form1.resources
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.Properties.Resources.resources
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.GenerateResource.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.CoreCompileInputs.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.exe
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\PassaParola\PassaParola\obj\Debug\PassaParola.pdb
